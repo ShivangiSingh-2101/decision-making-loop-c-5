@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    string password = "007";
+    string password = "Sammy";
     int a=0;
     while(true){
         cout<< "enter the password : "<<endl;
